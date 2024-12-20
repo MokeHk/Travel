@@ -1,9 +1,9 @@
 {
   "name": "travel",
   "version": "0.0.1",
-  "description": "ShoppingApp",
+  "description": "Traveling app",
   "productName": "Quasar App",
-  "author": "Okamoto",
+  "author": "Mekonen",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue ./",
